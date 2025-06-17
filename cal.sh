@@ -7,3 +7,6 @@ x-y=10
 
 #multiply
 x*y=10
+
+#Division
+x/y=10
