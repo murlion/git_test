@@ -19,3 +19,6 @@ xyz
 
 #variable
 $
+
+#path variable
+$PATH
