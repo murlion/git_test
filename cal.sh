@@ -15,3 +15,7 @@ x/y=10
 #x%y=10
 
 xyz
+
+
+#variable
+$
